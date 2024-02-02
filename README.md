@@ -1,6 +1,6 @@
 # Flutter Countries App
 
-A simple country app developed with **Flutter** using Rest Countries **API** with **CLEAN architecture** using **Riverpod** as a state management tool and **Dio** as an HTTP client.
+A simple country app developed with **`Flutter`** using Rest Countries **`API`** with **`CLEAN architecture`** using **`Riverpod`** as a state management tool and **`Dio`** as an HTTP client.
 
 ## Features
 
