@@ -1,16 +1,22 @@
-# rest_countries
+# Flutter Countries App
 
-A new Flutter project.
+A simple country app developed with **Flutter** using Rest Countries **API** with **CLEAN architecture** using **Riverpod** as a state management tool and **Dio** as an HTTP client.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Country List
+- Country Details
 
-A few resources to get you started if this is your first Flutter project:
+## Technological Details
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Architecture:** CLEAN Architecture.
+- **State Management:** Flutter Riverpod Package (flutter_riverpod)
+- **HTTP Client:** Dio Package (dio)
+- **Service Locator:** Get It Package (get_it)
+- **Responsiveness:** Pro Design Package (pro_design)
+- **Widgets:** Pro Widgets Package (pro_widgets)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+
+**Shajedul Islam**
+www.shajedul.com
