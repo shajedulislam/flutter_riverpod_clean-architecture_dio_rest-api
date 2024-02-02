@@ -19,4 +19,5 @@ A simple country app developed with **Flutter** using Rest Countries **API** wit
 ## Author
 
 **Shajedul Islam**
+
 www.shajedul.com
